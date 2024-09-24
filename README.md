@@ -12,6 +12,8 @@ We chose XGBoost as our model of choice because out of the 3 models, XGBoost's t
 
 ## **Demo**
 
+Video of Demo: [HDB sales predictor video](https://youtu.be/HiMJoXPNXew)
+
 Demo on Streamlit: [HDB sales predictor](https://datasprint-wy.streamlit.app/)
 
 The predictor uses the input variables to determine the HDB resale pricing. 
