@@ -12,7 +12,7 @@ We chose XGBoost as our model of choice because out of the 3 models, XGBoost's t
 
 **Demo**
 
-Demo on streamlit: [HDB sales predictor](https://datasprint-wy.streamlit.app/)
+Demo on Streamlit: [HDB sales predictor](https://datasprint-wy.streamlit.app/)
 
 The predictor uses the input variables to determine the HDB resale pricing. 
 Input variables were optimised from 80 to 20 variables through combination of exploratory data analysis (EDA) and modelling/backward elimination.
