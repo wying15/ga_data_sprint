@@ -4,7 +4,7 @@ By Wanying, Jaeden, Denzil, Jim, and Jeremiah
 
 **Introduction**
 
-This project is a collaborative effort of five teammates - Wanying, Jaeden, Denzil, Jim, Jeremiah - during a 4-day data sprint as part off the General Assembly Data Analyst Bootcamp! 💻
+This project is a collaborative effort of five teammates - Wanying, Jaeden, Denzil, Jim, Jeremiah - during a 4-day data sprint as part of the General Assembly Data Analyst Bootcamp! 💻
 
 **Modelling**
 
