@@ -12,7 +12,7 @@ We chose XGBoost as our model of choice because out of the 3 models, XGBoost's t
 
 **Demo**
 
-Demo over here: [HDB sales predictor](https://datasprint-wy.streamlit.app/)
+Demo on streamlit: [HDB sales predictor](https://datasprint-wy.streamlit.app/)
 
 The predictor uses the input variables to determine the HDB resale pricing. 
 Input variables were optimised from 80 to 20 variables through combination of exploratory data analysis (EDA) and modelling/backward elimination.
@@ -22,5 +22,6 @@ Our agents at WOW! can input these different variables to predict pricing.
 - [General Assembly](https://generalassemb.ly/)
 - [XGBoost](https://www.nvidia.com/en-us/glossary/xgboost/)
 - [HDB](https://www.hdb.gov.sg/cs/infoweb/homepage)
+- [Streamlit](https://streamlit.io/)
 
 Questions? Contact me on [LinkedIn](https://www.linkedin.com/in/wanying-chin/).
